@@ -68,9 +68,7 @@ The project includes a wide variety of visualizations:
 ---
 
 ## 📁 Notebooks & Scripts
-
-- `bribery_analysis_eda.ipynb`: Full EDA workflow including data loading, cleaning, and plotting  
-- Future versions may include:
+  - Future versions may include:
   - Sentiment analysis of complaint titles using NLP  
   - Geographic choropleths using `plotly` or `folium`  
   - Dashboard version in Power BI or Tableau  
@@ -83,7 +81,7 @@ To reproduce the analysis:
 
 1. Clone the repository  
 2. Place the dataset CSV file in the working directory  
-3. Run the `bribery_analysis_eda.ipynb` notebook  
+3. Run the `bribery-corruption-india.ipynb` notebook  
 4. Explore interactive and static visualizations for insights  
 
 ---
